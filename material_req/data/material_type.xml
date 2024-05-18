@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+         <record id="material_type_fabric" model="material.type">
+            <field name="name">Fabrics</field>
+        </record>
+        <record id="material_type_jeans" model="material.type">
+            <field name="name">Jeans</field>
+        </record>
+        <record id="material_type_cotton" model="material.type">
+            <field name="name">Cottons</field>
+        </record>
+    </data>
+</odoo>
